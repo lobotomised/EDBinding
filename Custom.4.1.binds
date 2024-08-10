@@ -1378,7 +1378,7 @@
 		<Inverted Value="0" />
 		<Deadzone Value="0.00000000" />
 	</ExplorationFSSRadioTuningAbsoluteX>
-	<FSSTuningSensitivity Value="2.16082406" />
+	<FSSTuningSensitivity Value="0.88380170" />
 	<ExplorationFSSDiscoveryScan>
 		<Primary Device="Mouse" Key="Mouse_3" />
 		<Secondary Device="{NoDevice}" Key="" />
